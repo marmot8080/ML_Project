@@ -5,7 +5,7 @@
 
 ### 데이터셋 출처
 * 아래 링크에서 movies_metadata.csv를 다운로드 받고 TMDB API를 활용하여 데이터 수집
-* https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset?select=credits.csv
+* (https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset/data)
 
 ### 데이터셋 구축
 * movies_metadata.csv를 assets/ 에 복사, assets/TMDB_API_Tokken.txt 파일을 생성한 뒤 자신의 TMDB api 토큰을 복사해 저장 후 build.bat 파일 실행 시 데이터셋 구축 가능
