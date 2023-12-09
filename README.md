@@ -9,6 +9,7 @@
 
 ### 데이터셋 구축
 * movies_metadata.csv를 assets/ 에 복사, assets/TMDB_API_Tokken.txt 파일을 생성한 뒤 자신의 TMDB api 토큰을 복사해 저장 후 build.bat 파일 실행 시 데이터셋 구축 가능
+* 구축되어있는 데이터셋 다운로드 (https://drive.google.com/file/d/12ow3GeRPiY1Sw61NYCOfrLVeVUxKQw12/view?usp=sharing)
 
 ### 프로그램 실행
 * 사전 데이터 분석에 활용한 그래프를 확인하기 위해서는 graph.bat 실행
